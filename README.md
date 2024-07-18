@@ -1,3 +1,3 @@
-#_ main heder
+# main heder
 
-SOme plain text
+SOme plain text!
